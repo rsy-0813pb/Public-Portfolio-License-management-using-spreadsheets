@@ -35,7 +35,7 @@
    ```
    pip install gspread oauth2client psutil colorama
    ```
-3. credentials.jsonとスプレッドシートのキーを任意のものへ変更します。スプレッドシートは下のライセンス管理方法からダウンロードできます。
+3. コードの中のcredentials.json部分とスプレッドシートのキーを任意のものへ変更します。スプレッドシートは下のライセンス管理方法からダウンロードできます。
 4. プログラムを実行します：
    ```
    python main.py
