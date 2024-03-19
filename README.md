@@ -24,8 +24,8 @@
 
 1. このリポジトリをクローンまたはダウンロードします：
    ```
-   git clone https://github.com/rsy-0813pb/Portfolio-License-management-using-spreadsheets.git
-   cd Portfolio-License-management-using-spreadsheets
+   git clone https://github.com/rsy-0813pb/Public-Portfolio-License-m-u-s.git
+   cd Public-Portfolio-License-m-u-s
    ```
 2. 必要なライブラリをインポートします：
    ```
